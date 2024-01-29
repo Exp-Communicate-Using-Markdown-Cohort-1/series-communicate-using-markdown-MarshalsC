@@ -5,3 +5,6 @@
 def func():
     print('This is a language filed!')
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
